@@ -5,8 +5,7 @@
 🎮 - Apaixonado por tecnologia e games<br>
 🎷 - Saxofonista e multi-instrumentista<br>
 🌎 - Curioso sobre qualquer coisa que me interesse<br>
-🪐 - Sempre estudando ( Typescript/ Docker/ spring e angular)
-#
+🪐 - Sempre estudando
 <div align="center">
   <a href="https://github.com/AlanSSoares92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanSSoares92&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
