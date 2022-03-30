@@ -1,4 +1,4 @@
-# Alan Soares - 29 anos
+# Alan Soares - Angular/FrontEnd Developer
 
 👨🏽‍💻 - Hoje trabalho como Front-end/Angular<br>
 👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas<br>
