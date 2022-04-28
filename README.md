@@ -1,6 +1,6 @@
-# Alan Soares - Angular/FrontEnd Developer
+# Alan Soares - Angular/FrontEnd Developer & Camel Java/ BackEnd Developer
 
-👨🏽‍💻 - Hoje trabalho como Front-end/Angular<br>
+👨🏽‍💻 - </ > r<br>
 👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas<br>
 🎮 - Apaixonado por tecnologia e games<br>
 🎷 - Saxofonista e multi-instrumentista<br>
