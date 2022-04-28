@@ -1,4 +1,4 @@
-# Alan Soares - Angular/FrontEnd Developer & Camel Java/ BackEnd Developer
+# Angular/FrontEnd Developer & Camel Java/ BackEnd Developer
 
 👨🏽‍💻 - </ > r<br>
 👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas<br>
