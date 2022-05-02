@@ -1,6 +1,6 @@
-# Angular/FrontEnd Developer & Camel Java/ BackEnd Developer
+# Fullstack Developer
 
-👨🏽‍💻 - </ > <br>
+👨🏽‍💻 - </ Angular & Java> <br>
 👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas<br>
 🎮 - Apaixonado por tecnologia e games<br>
 🎷 - Saxofonista e multi-instrumentista<br>
