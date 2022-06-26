@@ -1,6 +1,6 @@
 # It Developer
 
-👨🏽‍💻 - <Angular>&&</Java> <br>
+👨🏽‍💻 - </Java && Angular> <br>
 👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas<br>
 🎮 - Apaixonado por tecnologia e games<br>
 🎷 - Saxofonista e multi-instrumentista<br>
