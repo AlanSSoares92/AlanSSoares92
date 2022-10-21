@@ -1,4 +1,4 @@
-# It Developer
+# It Analyst
 
 👨🏽‍💻 - </Java && Angular> <br>
 👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas<br>
