@@ -12,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSSoares92&layout=compact&langs_count=7&theme=merko"/>
     </div>
  <div style="display: inline_block;"><br>
+  <img align="center" alt="Alan-Spring" title="SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-plain-svg">
   <img align="center" alt="Alan-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-Ts" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alan-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
