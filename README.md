@@ -1,7 +1,7 @@
 # It Analyst
 
 👨🏽‍💻 - </Java && Angular> <br>
-👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas<br>
+👨🏽‍🎓 - Formado em Análise e Desenvolvimento de Sistemas / Pós graduando em Engenharia de Software<br>
 🎮 - Apaixonado por tecnologia e games<br>
 🎷 - Saxofonista e multi-instrumentista<br>
 🌎 - Curioso sobre qualquer coisa que me interesse<br>
