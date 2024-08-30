@@ -8,7 +8,7 @@
 🪐 - always focusing <br>
  
    <div align="center">
-    ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSSoares92&theme=slateorange&show_icons=true)
+     <img src = "![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSSoares92&theme=slateorange&show_icons=true)">
    </div>
 
    <div style="display: inline_block; align: center"><br>
