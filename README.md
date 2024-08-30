@@ -10,7 +10,7 @@
    <div align="center">
      <a href="https://github.com/AlanSSoares92">
       <img src = "[![Alan Soares GitHub Status](https://camo.githubusercontent.com/073a241c60132fe895548e705b8a3d82c3eaca85faae02f0c458c5f86aaa1901/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d67727576626f785f6c69676874)]">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanSSoares92&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanSSoares92&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> -->
   </div>
 
    <div style="display: inline_block; align: center"><br>
