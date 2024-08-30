@@ -6,10 +6,8 @@
 🎷 - Saxofonista e multi-instrumentista<br>
 🌎 - Curioso sobre qualquer coisa que me interesse<br>
 🪐 - always focusing <br>
- 
-   <div align="center">
-     <img src = "![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSSoares92&theme=slateorange&show_icons=true)">
-   </div>
+
+  ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSSoares92&theme=slateorange&show_icons=true)
 
    <div style="display: inline_block; align: center"><br>
       <img align="center" alt="Alan-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
