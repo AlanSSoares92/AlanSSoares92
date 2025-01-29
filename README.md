@@ -33,7 +33,7 @@
       <img title="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 <br>
     <br>
-      redes:</br>
+      LinkedIn:</br>
       <a href="https://www.linkedin.com/in/alansoares/">
         <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
